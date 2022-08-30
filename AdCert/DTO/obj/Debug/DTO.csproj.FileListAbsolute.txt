@@ -1,0 +1,34 @@
+E:\Projetos C Sharp\AdCert\DTO\bin\Debug\DTO.dll
+E:\Projetos C Sharp\AdCert\DTO\bin\Debug\DTO.pdb
+E:\Projetos C Sharp\AdCert\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Projetos C Sharp\AdCert\DTO\obj\Debug\DTO.dll
+E:\Projetos C Sharp\AdCert\DTO\obj\Debug\DTO.pdb
+E:\Projetos C Sharp\AdCert\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\AdCert\DTO\bin\Debug\DTO.dll
+E:\AdCert\DTO\bin\Debug\DTO.pdb
+E:\AdCert\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\AdCert\DTO\obj\Debug\DTO.dll
+E:\AdCert\DTO\obj\Debug\DTO.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\DTO\bin\Debug\DTO.dll
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\DTO\bin\Debug\DTO.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.dll
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.pdb
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\bin\Debug\DTO.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\bin\Debug\DTO.pdb
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\bin\Debug\DTO.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\bin\Debug\DTO.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\DTO\obj\Debug\DTO.pdb
+E:\Projetos C Sharp\github\AdCert\DTO\bin\Debug\DTO.dll
+E:\Projetos C Sharp\github\AdCert\DTO\bin\Debug\DTO.pdb
+E:\Projetos C Sharp\github\AdCert\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Projetos C Sharp\github\AdCert\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Projetos C Sharp\github\AdCert\DTO\obj\Debug\DTO.dll
+E:\Projetos C Sharp\github\AdCert\DTO\obj\Debug\DTO.pdb

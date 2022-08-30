@@ -1,0 +1,446 @@
+C:\Cmp\AdCert\AdCert\obj\Debug\AdCert.exe
+C:\Cmp\AdCert\AdCert\obj\Debug\AdCert.pdb
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\AdCertDB.mdf
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\AdCertDB_log.ldf
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\AdCert.exe
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\AdCert.pdb
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\BLL.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\DTO.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\DbaCon.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\BLL.pdb
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\DTO.pdb
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\DbaCon.pdb
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\DbaCon.dll.config
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.csprojAssemblyReference.cache
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.FrmBackup.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.FrmCadastrar.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.FrmHome.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.FrmMenu.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.FrmPesquisar.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.FrmSplashScreen.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.Properties.Resources.resources
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.csproj.GenerateResource.cache
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.csproj.CoreCompileInputs.cache
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.csproj.CopyComplete
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.exe
+E:\Projetos C Sharp\AdCert\AdCert\obj\Debug\AdCert.pdb
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\AdCert.exe.config
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+E:\Projetos C Sharp\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+E:\AdCert\AdCert\bin\Debug\AdCert.exe.config
+E:\AdCert\AdCert\obj\Debug\AdCert.exe
+E:\AdCert\AdCert\obj\Debug\AdCert.pdb
+E:\AdCert\AdCert\bin\Debug\AdCertDB.mdf
+E:\AdCert\AdCert\bin\Debug\AdCertDB_log.ldf
+E:\AdCert\AdCert\bin\Debug\AdCert.exe
+E:\AdCert\AdCert\bin\Debug\AdCert.pdb
+E:\AdCert\AdCert\bin\Debug\BLL.dll
+E:\AdCert\AdCert\bin\Debug\DbaCon.dll
+E:\AdCert\AdCert\bin\Debug\DTO.dll
+E:\AdCert\AdCert\bin\Debug\BLL.pdb
+E:\AdCert\AdCert\bin\Debug\DbaCon.pdb
+E:\AdCert\AdCert\bin\Debug\DTO.pdb
+E:\AdCert\AdCert\obj\Debug\AdCert.csprojResolveAssemblyReference.cache
+E:\AdCert\AdCert\obj\Debug\AdCert.FrmBackup.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.FrmCadastrar.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.FrmHome.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.FrmMenu.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.FrmPesquisar.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.FrmSplashScreen.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.Properties.Resources.resources
+E:\AdCert\AdCert\obj\Debug\AdCert.csproj.GenerateResource.Cache
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.exe.config
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.exe
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCertDB.mdf
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCertDB_log.ldf
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.exe
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\BLL.dll
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.dll
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\DTO.dll
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\BLL.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\bin\Debug\DTO.pdb
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csprojResolveAssemblyReference.cache
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmBackup.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmCadastrar.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmHome.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmMenu.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmPesquisar.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmSplashScreen.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.Properties.Resources.resources
+Z:\Programas\AdCert\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.GenerateResource.Cache
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCertDB.mdf
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCertDB_log.ldf
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.exe.config
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.exe
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.pdb
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\BLL.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DTO.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\BLL.pdb
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.pdb
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.dll.config
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DTO.pdb
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csprojAssemblyReference.cache
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmBackup.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmCadastrar.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmHome.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmMenu.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmPesquisar.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmSplashScreen.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.Properties.Resources.resources
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.GenerateResource.cache
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.CoreCompileInputs.cache
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.CopyComplete
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.exe
+D:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCertDB.mdf
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCertDB_log.ldf
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.exe.config
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.exe
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\AdCert.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\BLL.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DTO.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\BLL.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DbaCon.dll.config
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\DTO.pdb
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.AssemblyReference.cache
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmBackup.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmCadastrar.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmHome.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmMenu.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmPesquisar.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.FrmSplashScreen.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.Properties.Resources.resources
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.GenerateResource.cache
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.CoreCompileInputs.cache
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.csproj.CopyComplete
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.exe
+E:\Projetos C Sharp\AdCert-Adonai\Codigo_Fonte\AdCert\AdCert\obj\Debug\AdCert.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\AdCertDB.mdf
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\AdCertDB_log.ldf
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\AdCert.exe.config
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\AdCert.exe
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\AdCert.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Azure.Core.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Azure.Identity.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\BLL.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\DbaCon.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\DTO.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Build.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Build.Framework.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Contracts.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Identity.Client.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dac.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dac.Extensions.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Newtonsoft.Json.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\SqlPackage.exe
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Buffers.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Collections.Immutable.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Data.SqlClient.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Memory.Data.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Memory.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Numerics.Vectors.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.AccessControl.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.Permissions.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.Principal.Windows.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Text.Encodings.Web.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Text.Json.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.ValueTuple.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\BLL.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\BLL.dll.config
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\DbaCon.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\DbaCon.dll.config
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\DTO.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Azure.Core.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Azure.Identity.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Build.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Build.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Build.Framework.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Build.Framework.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Identity.Client.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Assessment.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dac.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dac.Extensions.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\Newtonsoft.Json.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\SqlPackage.exe.config
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Buffers.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Collections.Immutable.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Data.SqlClient.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Memory.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Memory.Data.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Numerics.Vectors.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.AccessControl.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.Permissions.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Security.Principal.Windows.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Text.Encodings.Web.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Text.Json.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\System.ValueTuple.xml
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hans\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hant\Microsoft.Data.Tools.Components.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-CN\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-TW\Microsoft.Data.Tools.Schema.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hans\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hant\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hans\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hant\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-CN\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-TW\Microsoft.Data.Tools.Utilities.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-CN\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-TW\Microsoft.SqlServer.Dac.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-CN\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-TW\Microsoft.SqlServer.Dac.Extensions.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\de-DE\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\es-ES\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\fr-FR\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\it-IT\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ja-JP\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ko-KR\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\pt-BR\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\ru-RU\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hans\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\bin\Debug\zh-Hant\SqlPackage.resources.dll
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.csproj.AssemblyReference.cache
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.csproj.SuggestedBindingRedirects.cache
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.FrmBackup.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.FrmCadastrar.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.FrmHome.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.FrmMenu.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.FrmPesquisar.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.FrmSplashScreen.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.Properties.Resources.resources
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.csproj.GenerateResource.cache
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.csproj.CoreCompileInputs.cache
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.csproj.CopyComplete
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.exe
+E:\Projetos C Sharp\github\AdCert\AdCert\obj\Debug\AdCert.pdb
