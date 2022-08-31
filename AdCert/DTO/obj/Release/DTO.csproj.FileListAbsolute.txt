@@ -1,6 +1,0 @@
-E:\Projetos C Sharp\github\AdCert\DTO\bin\Release\DTO.dll
-E:\Projetos C Sharp\github\AdCert\DTO\bin\Release\DTO.pdb
-E:\Projetos C Sharp\github\AdCert\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
-E:\Projetos C Sharp\github\AdCert\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
-E:\Projetos C Sharp\github\AdCert\DTO\obj\Release\DTO.dll
-E:\Projetos C Sharp\github\AdCert\DTO\obj\Release\DTO.pdb
