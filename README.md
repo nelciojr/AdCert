@@ -9,7 +9,7 @@ Possui ainda as funções de pesquisa e backup do banco de dados.
 
 ![alt text](imagens/cadastroadcert.jpg)
 
-Como foi dito, é um simples sistema, mas de muita importância pra empresas que usam vários certificados, como contabilidades e etc.
-Pois pode ser iniciado com o windows.
+Como foi dito, é um simples sistema, mas de muita importância para empresas que usam vários certificados, como contabilidades e etc.
+Pode ser iniciado com o windows, assim diariamente pode-se verificar as datas de vencimento dos certificados.
 
 
